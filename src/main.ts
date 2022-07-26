@@ -1,7 +1,7 @@
 import './style.css';
 import typescriptLogo from './typescript.svg';
 
-import './exercise/exercise.ts';
+import './exercise/exercise';
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
