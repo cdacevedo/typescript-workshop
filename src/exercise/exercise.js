@@ -7,6 +7,9 @@
  *
  * Y escribe esos atributos con la sintaxis de una interface
  * e implementalo en un objeto
+ *
+ * Recuerda usar los diferentes tipados presentados
+ * (primitivos, especiales, literales)
  */
 
 // TODO: Your code here 👇🏼
