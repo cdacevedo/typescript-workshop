@@ -5,6 +5,7 @@ import './exercise/exercise.ts';
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
+    <div class="topic">What is Typescript?</div>
     <a href="https://www.typescriptlang.org/" target="_blank">
       <img id="ts-logo" src="${typescriptLogo}" class="logo" alt="TypeScript logo" />
     </a>
