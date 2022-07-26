@@ -10,5 +10,8 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
     <p class="read-the-docs">
       Wait for the exhibitor's instructions
     </p>
+    <p class="read-the-docs">
+      Click on the logo to know more
+    </p>
   </div>
 `;
