@@ -5,6 +5,7 @@ import './exercise/exercise';
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
+    <div class="topic">Interfaces</div>
     <a href="https://www.typescriptlang.org/" target="_blank">
       <img id="ts-logo" src="${typescriptLogo}" class="logo" alt="TypeScript logo" />
     </a>
